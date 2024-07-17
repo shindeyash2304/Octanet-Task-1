@@ -1,9 +1,5 @@
  ATM Machine Simulation
 
-Sure! Here’s a detailed explanation of the ATM Machine simulation code and how it works:
-
- Code Breakdown
-
 1. Class Definition:
     python
     class ATMMachine:
